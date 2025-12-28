@@ -8,7 +8,7 @@ This 8000 level course was a complete joy with Prof. Stephen Guy. With its detai
 
 * For the One-Button Game project, I designed and coded a small boat game called Sea Rescue One-Button Game.
 * For the second game with “no-touching” criteria, I re-engineered my Head-Pose Estimation (HPE) code into a bubble bursting game.
-* For my final project, I used Raspberry Pi 3.0 to create an Augmented Reality (AR) Tic-Tac-Toe game with the help of [ArUCo marker detection library](https://github.com/vaziri/ArUco-Tic-Tac-Toe).
+* For my final project, I used Raspberry Pi 3.0 to create an Augmented Reality (AR) Tic-Tac-Toe game with the help of [ArUCo marker detection library](https://www.uco.es/investiga/grupos/ava/node/26).
 
 <img src="assets/sea_rescue_screenshot.png" height="100"> <img src="assets/ibubbleburst_screenshot.jpg" height="100"> <img src="assets/arttt.jpg" height="100">
 
