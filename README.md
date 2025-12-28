@@ -16,7 +16,7 @@ This 8000 level course was a complete joy with Prof. Stephen Guy. With its detai
 
 Virtual Reality is an ongoing research for me, but for this time period, I got to experiment with different edge-detection and Non-Photo Realistic (NPR) techniques both on CPU and GPU.
 
-<img src="assets/vr_fdog_01.jpg" height="100"> <img src="assets/vr_fdog_02.jpg" height="100"> <img src="assets/vr_fdog_03.jpg" height="100"> <img src="assets/vr_fdog_04.jpg" height="100">
+<img src="assets/vr_fdog_01.jpg" height="100"> <img src="assets/vr_fdog_02.jpg" height="100"> <img src="assets/vr_fdog_03.jpg" height="100"> <img src="assets/vr_fdog_04.jpg" height="100"> <img src="assets/kv_main4.jpg" height="100">
 
 ### Computer Vision
 
