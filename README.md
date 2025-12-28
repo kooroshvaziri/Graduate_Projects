@@ -10,22 +10,22 @@ This 8000 level course was a complete joy with Prof. Stephen Guy. With its detai
 * For the second game with “no-touching” criteria, I re-engineered my Head-Pose Estimation (HPE) code into a bubble bursting game. Player had to burst bubbles coming towards them by moving their head. It also had simple SFX.
 * For my final project, I used Raspberry Pi 3.0 to create an Augmented Reality (AR) Tic-Tac-Toe game with the help of [ArUCo marker detection library](https://github.com/vaziri/ArUco-Tic-Tac-Toe). It used a USB camera input and worked in real-time.
 
-<img src="assets/sea_rescue_01.jpg" height="100"> <img src="assets/bubble_burst_01.jpg" height="100"> <img src="assets/tic_tac_toe_ar.jpg" height="100">
+<img src="assets/sea_rescue_screenshot.png" height="100"> <img src="assets/bubble_bursting.png" height="100"> <img src="assets/tic_tac_toe_ar.png" height="100">
 
 ### Virtual Reality
 
 Virtual Reality is an ongoing research for me, but for this time period, I got to experiment with different edge-detection and Non-Photo Realistic (NPR) techniques like Sobel, Canny, Cartoon Shaders, Video Abstraction, Laplacian Pyramid, Difference of Gaussian (DoG), eXtended DoG (XDOG), and Flow-based DoG (F-DoG) both on CPU and GPU. I also modified [Kyprianidis’ open-source X-DoG CUDA code](https://github.com/vaziri/Stereo-XDoG) to work in stereo for our custom video-see-through system.
 
-<img src="assets/npr_01.jpg" height="100"> <img src="assets/npr_02.jpg" height="100"> <img src="assets/npr_03.jpg" height="100"> <img src="assets/npr_04.jpg" height="100">
+<img src="assets/npr_sobel.png" height="100"> <img src="assets/npr_canny.png" height="100"> <img src="assets/npr_cartoon.png" height="100"> <img src="assets/npr_stereo.png" height="100">
 
 ### Computer Vision
 
 Computer Vision course with Prof. Volkan Isler was a serious but an exciting and fun class. Many computer vision techniques were explained and explored in details including edge-detections, bluring, blobs, corners and features detection, homography, image warping, transformations, SIFT, perspective-n-points, optical flow, image segmentation, snake active contours, 3D rectification of stereo pairs, and panaromas. For the final project with a little help, I chose the challenging Head-Pose Estimation (HPE) topic with a single calibrated webcam. It was magical to see how combining all these technologies works in a practical application.
 
-<img src="assets/cv_01.jpg" height="100"> <img src="assets/cv_02.jpg" height="100"> <img src="assets/cv_03.jpg" height="100"> <img src="assets/cv_04.jpg" height="100"> <img src="assets/cv_05.jpg" height="100">
+<img src="assets/cv_hpe_01.png" height="100"> <img src="assets/cv_hpe_02.png" height="100"> <img src="assets/cv_optical_flow.png" height="100"> <img src="assets/cv_rectification.png" height="100"> <img src="assets/cv_panorama.png" height="100">
 
 ### Visualization
 
 Data Visualization class with Prof. Dan Keefe was an exciting experience among other CSci courses. It started like an art class, with crayons and sketches, and slowly dived into visualizing flows and scientific data. We learned many visualization and data filtering techniques like linking and brushing, zooming and scaling, navigations, and more. For the final project, I visualized the microbiome population in mice’s guts treated with antibiotics in D3JS. The data was given to me by Prof. Dan Knights, and it was available in each 1 millimeter section of the dissected gut. To make it a little more fun, I chose the name Gus’s Gut for this project.
 
-<img src="assets/viz_01.jpg" height="100"> <img src="assets/viz_02.jpg" height="100"> <img src="assets/viz_03.jpg" height="100"> <img src="assets/viz_04.jpg" height="100"> <img src="assets/viz_05.jpg" height="100"> <img src="assets/viz_06.jpg" height="100"> <img src="assets/viz_07.jpg" height="100"> <img src="assets/viz_08.jpg" height="100"> <img src="assets/viz_09.jpg" height="100"> <img src="assets/viz_10.jpg" height="100"> <img src="assets/viz_11.jpg" height="100">
+<img src="assets/viz_mice_gut_01.png" height="100"> <img src="assets/viz_mice_gut_02.png" height="100"> <img src="assets/viz_mice_gut_03.png" height="100"> <img src="assets/viz_mice_gut_04.png" height="100"> <img src="assets/viz_mice_gut_05.png" height="100"> <img src="assets/viz_mice_gut_06.png" height="100"> <img src="assets/viz_mice_gut_07.png" height="100"> <img src="assets/viz_mice_gut_08.png" height="100"> <img src="assets/viz_mice_gut_09.png" height="100"> <img src="assets/viz_mice_gut_10.png" height="100"> <img src="assets/viz_mice_gut_11.png" height="100">
