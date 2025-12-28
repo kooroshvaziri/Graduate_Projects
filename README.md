@@ -1,6 +1,6 @@
 # Graduate Projects
 
-Some of the class projects that I’ve done before 2016 are listed on this page. For current research, please visit my [PhD Research Page](https://www.kvaziri.com/phd-research/).
+Some of the class projects that I’ve done before 2016 are listed on this page. For current research, please visit my [PhD Research Page](https://github.com/kooroshvaziri/PhD_Research).
 
 ### Experimental Game Technologies
 
